@@ -1,0 +1,65 @@
+{
+    "name":"PRIMERA PWA",
+    "short_name":"PWA",
+    "description":"Aplicacion PWA de IDG101N",
+    "background_color":"#F3F6FF",
+    "theme_color":"#FB314E",
+    "orientation":"portrait",
+    "display":"standalone",
+    "start_":"./index.html?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons": [
+        {
+          "src": "img/cucurucho-de-helado16.png",
+          "sizes": "16x16",
+          "type": "img/png"
+        },
+        {
+          "src": "img/cucurucho-de-helado32.png",
+          "sizes": "32x32",
+          "type": "img/png"
+        },
+        {
+          "src": "img/cucurucho-de-helado64.png",
+          "sizes": "64x64",
+          "type": "img/png"
+        },
+        {
+          "src": "img/cucurucho-de-helado96.png",
+          "sizes": "96x96",
+          "type": "img/png"
+        },
+        {
+          "src": "img/cucurucho-de-helado128.png",
+          "sizes": "128x128",
+          "type": "img/png"
+        },
+        {
+          "src": "img/cucurucho-de-helado192.png",
+          "sizes": "192x192",
+          "type": "img/png"
+        },
+        {
+          "src": "img/cucurucho-de-helado256.png",
+          "sizes": "256x256",
+          "type": "img/png"
+        },
+        {
+          "src": "img/cucurucho-de-helado384.png",
+          "sizes": "384x384",
+          "type": "img/png"
+        },
+        {
+          "src": "img/cucurucho-de-helado512.png",
+          "sizes": "512x512",
+          "type": "img/png"
+        },
+        {
+          "src": "img/cucurucho-de-helado1024.png",
+          "sizes": "1024x1024",
+          "type": "img/png"
+        }
+
+    ]
+}
